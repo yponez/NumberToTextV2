@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roma\\source\\repos\\NumberToWordV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99B4392D-6811-4D3F-B906-17CBE7D74349}|NumberToWordV2.vcxproj|C:\\Users\\Roma\\source\\repos\\NumberToWordV2\\Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99B4392D-6811-4D3F-B906-17CBE7D74349}|NumberToWordV2.vcxproj|solutionrelative:Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B4392D-6811-4D3F-B906-17CBE7D74349}|NumberToWordV2.vcxproj|C:\\Users\\Roma\\source\\repos\\NumberToWordV2\\Words.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99B4392D-6811-4D3F-B906-17CBE7D74349}|NumberToWordV2.vcxproj|solutionrelative:Words.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B4392D-6811-4D3F-B906-17CBE7D74349}|NumberToWordV2.vcxproj|C:\\Users\\Roma\\source\\repos\\NumberToWordV2\\NumberToWordV2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99B4392D-6811-4D3F-B906-17CBE7D74349}|NumberToWordV2.vcxproj|solutionrelative:NumberToWordV2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B4392D-6811-4D3F-B906-17CBE7D74349}|NumberToWordV2.vcxproj|C:\\Users\\Roma\\source\\repos\\NumberToWordV2\\Numbers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99B4392D-6811-4D3F-B906-17CBE7D74349}|NumberToWordV2.vcxproj|solutionrelative:Numbers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 364,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Numbers.h",
+              "DocumentMoniker": "C:\\Users\\Roma\\source\\repos\\NumberToWordV2\\Numbers.h",
+              "RelativeDocumentMoniker": "Numbers.h",
+              "ToolTip": "C:\\Users\\Roma\\source\\repos\\NumberToWordV2\\Numbers.h",
+              "RelativeToolTip": "Numbers.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-23T19:08:32.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Words.h",
+              "DocumentMoniker": "C:\\Users\\Roma\\source\\repos\\NumberToWordV2\\Words.h",
+              "RelativeDocumentMoniker": "Words.h",
+              "ToolTip": "C:\\Users\\Roma\\source\\repos\\NumberToWordV2\\Words.h",
+              "RelativeToolTip": "Words.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-23T19:06:30.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Numbers.cpp",
+              "DocumentMoniker": "C:\\Users\\Roma\\source\\repos\\NumberToWordV2\\Numbers.cpp",
+              "RelativeDocumentMoniker": "Numbers.cpp",
+              "ToolTip": "C:\\Users\\Roma\\source\\repos\\NumberToWordV2\\Numbers.cpp",
+              "RelativeToolTip": "Numbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T11:33:50.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumberToWordV2.cpp",
+              "DocumentMoniker": "C:\\Users\\Roma\\source\\repos\\NumberToWordV2\\NumberToWordV2.cpp",
+              "RelativeDocumentMoniker": "NumberToWordV2.cpp",
+              "ToolTip": "C:\\Users\\Roma\\source\\repos\\NumberToWordV2\\NumberToWordV2.cpp",
+              "RelativeToolTip": "NumberToWordV2.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T11:33:16.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  Numbers.cpp
+C:\Users\Roma\source\repos\NumberToWordV2\Numbers.cpp(71,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Roma\source\repos\NumberToWordV2\Numbers.cpp(94,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  NumberToWordV2.vcxproj -> C:\Users\Roma\source\repos\NumberToWordV2\x64\Debug\NumberToWordV2.exe
